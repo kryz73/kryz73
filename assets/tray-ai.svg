@@ -1,0 +1,18 @@
+<svg width="850" height="54" viewBox="0 0 850 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="54" rx="8" fill="#181B20" stroke="#262B33" stroke-width="1.5" />
+  
+  <!-- Left Brick Indicator -->
+  <rect x="0" y="0" width="12" height="54" rx="4" fill="#FF6B00" />
+  
+  <!-- Studs -->
+  <g transform="translate(25, 15)">
+    <circle cx="12" cy="12" r="10" fill="#FF6B00" stroke="#FFFFFF" stroke-width="1.2" opacity="0.9" />
+    <circle cx="12" cy="11" r="6" fill="#B34700" />
+    <circle cx="36" cy="12" r="10" fill="#FF6B00" stroke="#FFFFFF" stroke-width="1.2" opacity="0.9" />
+    <circle cx="36" cy="11" r="6" fill="#B34700" />
+  </g>
+
+  <!-- Titles -->
+  <text x="85" y="33" font-family="'Arial Black', sans-serif" font-weight="900" font-size="16" fill="#FFFFFF" letter-spacing="0.5">🟧 SPECIALTY BRICKS (SCIENTIFIC AI & ML)</text>
+  <text x="540" y="32" font-family="monospace" font-weight="bold" font-size="12" fill="#FF6B00">// PANDAS · NUMPY · SCIKIT-LEARN · ETL PIPELINES</text>
+</svg>

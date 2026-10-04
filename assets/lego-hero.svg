@@ -1,0 +1,169 @@
+<svg width="850" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Baseplate pattern -->
+    <pattern id="stud-plate" width="40" height="40" patternUnits="userSpaceOnUse">
+      <rect width="40" height="40" fill="#181B20" />
+      <!-- Base Stud -->
+      <circle cx="20" cy="20" r="11" fill="#1F232A" />
+      <circle cx="20" cy="20" r="9.5" fill="#181B20" />
+      <circle cx="19" cy="19" r="9" fill="none" stroke="#2A303A" stroke-width="1.5" />
+      <circle cx="20" cy="20" r="5" fill="#14161A" opacity="0.6" />
+    </pattern>
+
+    <!-- 3D Brick Gradients -->
+    <!-- Red Brick -->
+    <linearGradient id="red-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF2B34" />
+      <stop offset="100%" stop-color="#E3000B" />
+    </linearGradient>
+    <linearGradient id="red-left" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#BA0009" />
+      <stop offset="100%" stop-color="#8A0006" />
+    </linearGradient>
+    <linearGradient id="red-right" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#D1000A" />
+      <stop offset="100%" stop-color="#A80007" />
+    </linearGradient>
+
+    <!-- Blue Brick -->
+    <linearGradient id="blue-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A75FF" />
+      <stop offset="100%" stop-color="#0055BF" />
+    </linearGradient>
+    <linearGradient id="blue-left" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#004499" />
+      <stop offset="100%" stop-color="#002D66" />
+    </linearGradient>
+    <linearGradient id="blue-right" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#004DAE" />
+      <stop offset="100%" stop-color="#003882" />
+    </linearGradient>
+
+    <!-- Yellow Brick -->
+    <linearGradient id="yellow-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF04D" />
+      <stop offset="100%" stop-color="#FFD700" />
+    </linearGradient>
+    <linearGradient id="yellow-left" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#CC9900" />
+      <stop offset="100%" stop-color="#997300" />
+    </linearGradient>
+    <linearGradient id="yellow-right" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#E6AC00" />
+      <stop offset="100%" stop-color="#B38600" />
+    </linearGradient>
+
+    <!-- Green Brick -->
+    <linearGradient id="green-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00B83D" />
+      <stop offset="100%" stop-color="#00852B" />
+    </linearGradient>
+    <linearGradient id="green-left" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#006B22" />
+      <stop offset="100%" stop-color="#004717" />
+    </linearGradient>
+    <linearGradient id="green-right" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#007A27" />
+      <stop offset="100%" stop-color="#00571C" />
+    </linearGradient>
+
+    <!-- Drop Shadows -->
+    <filter id="brick-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feDropShadow dx="4" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- Background Baseplate -->
+  <rect width="850" height="240" rx="16" fill="url(#stud-plate)" />
+  <rect width="850" height="240" rx="16" stroke="#2D333D" stroke-width="3" fill="none" />
+
+  <!-- LEGO Red Box Header Badge (Left) -->
+  <g transform="translate(35, 30)">
+    <rect width="90" height="90" rx="10" fill="#E3000B" stroke="#FFFFFF" stroke-width="3" />
+    <path d="M20 70 L20 22 L35 22 L35 60 L65 60 L65 70 Z" fill="#FFD700" stroke="#000000" stroke-width="1.5" />
+    <text x="45" y="46" font-family="'Arial Black', Impact, sans-serif" font-weight="900" font-size="24" fill="#FFFFFF" stroke="#000000" stroke-width="1" text-anchor="middle">BUILD</text>
+    <text x="45" y="72" font-family="'Arial Black', Impact, sans-serif" font-weight="900" font-size="14" fill="#FFD700" stroke="#000000" stroke-width="0.8" text-anchor="middle">SYS/73</text>
+  </g>
+
+  <!-- Title & Typography -->
+  <g transform="translate(145, 45)">
+    <!-- Subtitle Flag -->
+    <rect x="0" y="0" width="180" height="22" rx="4" fill="#E3000B" />
+    <text x="10" y="15" font-family="monospace" font-weight="bold" font-size="11" fill="#FFFFFF" letter-spacing="1">SET #7300 • AGE 18+</text>
+
+    <!-- Main Name Header with 3D block feel -->
+    <text x="0" y="58" font-family="'Arial Black', sans-serif" font-size="36" font-weight="900" fill="#FFD700" stroke="#B59100" stroke-width="1.5" letter-spacing="1">PULKIT KATARIYA</text>
+    <text x="380" y="58" font-family="monospace" font-size="20" font-weight="bold" fill="#0055BF">[@kryz73]</text>
+
+    <!-- Roles & Specialty -->
+    <text x="0" y="88" font-family="sans-serif" font-size="14" font-weight="700" fill="#E1E7EF" letter-spacing="0.5">MASTER BUILDER • SYSTEMS PROGRAMMING • CLOUD INFRASTRUCTURE</text>
+    <text x="0" y="110" font-family="sans-serif" font-size="12" font-weight="500" fill="#8B949E">Assembling fault-tolerant distributed engines and high-concurrency runtimes, brick by brick.</text>
+  </g>
+
+  <!-- Right Side: 3D Isometric Stacked Bricks Illustration -->
+  <g transform="translate(690, 80)" filter="url(#brick-shadow)">
+    <!-- Blue 2x2 Isometric Brick (Bottom) -->
+    <g transform="translate(0, 45)">
+      <!-- Left face -->
+      <polygon points="0,25 -40,5 -40,25 0,45" fill="url(#blue-left)" />
+      <!-- Right face -->
+      <polygon points="0,25 40,5 40,25 0,45" fill="url(#blue-right)" />
+      <!-- Top face -->
+      <polygon points="0,0 -40,-20 0,-40 40,-20" fill="url(#blue-top)" />
+      <!-- Studs -->
+      <ellipse cx="-20" cy="-20" rx="8" ry="4.5" fill="#1A75FF" />
+      <ellipse cx="-20" cy="-22" rx="8" ry="4.5" fill="#3385FF" stroke="#1A75FF" stroke-width="1" />
+      <ellipse cx="20" cy="-20" rx="8" ry="4.5" fill="#1A75FF" />
+      <ellipse cx="20" cy="-22" rx="8" ry="4.5" fill="#3385FF" stroke="#1A75FF" stroke-width="1" />
+    </g>
+
+    <!-- Red 2x2 Isometric Brick (Middle) -->
+    <g transform="translate(-15, 10)">
+      <!-- Left face -->
+      <polygon points="0,25 -40,5 -40,25 0,45" fill="url(#red-left)" />
+      <!-- Right face -->
+      <polygon points="0,25 40,5 40,25 0,45" fill="url(#red-right)" />
+      <!-- Top face -->
+      <polygon points="0,0 -40,-20 0,-40 40,-20" fill="url(#red-top)" />
+      <!-- Studs -->
+      <ellipse cx="-20" cy="-20" rx="8" ry="4.5" fill="#FF2B34" />
+      <ellipse cx="-20" cy="-22" rx="8" ry="4.5" fill="#FF5C63" stroke="#FF2B34" stroke-width="1" />
+      <ellipse cx="20" cy="-20" rx="8" ry="4.5" fill="#FF2B34" />
+      <ellipse cx="20" cy="-22" rx="8" ry="4.5" fill="#FF5C63" stroke="#FF2B34" stroke-width="1" />
+    </g>
+
+    <!-- Yellow 2x2 Isometric Brick (Top) -->
+    <g transform="translate(15, -25)">
+      <!-- Left face -->
+      <polygon points="0,25 -40,5 -40,25 0,45" fill="url(#yellow-left)" />
+      <!-- Right face -->
+      <polygon points="0,25 40,5 40,25 0,45" fill="url(#yellow-right)" />
+      <!-- Top face -->
+      <polygon points="0,0 -40,-20 0,-40 40,-20" fill="url(#yellow-top)" />
+      <!-- Studs -->
+      <ellipse cx="-20" cy="-20" rx="8" ry="4.5" fill="#FFD700" />
+      <ellipse cx="-20" cy="-22" rx="8" ry="4.5" fill="#FFF04D" stroke="#FFD700" stroke-width="1" />
+      <ellipse cx="20" cy="-20" rx="8" ry="4.5" fill="#FFD700" />
+      <ellipse cx="20" cy="-22" rx="8" ry="4.5" fill="#FFF04D" stroke="#FFD700" stroke-width="1" />
+    </g>
+  </g>
+
+  <!-- Bottom Stud Strip Connector -->
+  <g transform="translate(30, 205)">
+    <rect width="790" height="18" rx="6" fill="#22262E" stroke="#313742" stroke-width="1.5" />
+    <!-- Studs across the bar -->
+    <circle cx="40" cy="9" r="5" fill="#E3000B" />
+    <circle cx="100" cy="9" r="5" fill="#FFD700" />
+    <circle cx="160" cy="9" r="5" fill="#0055BF" />
+    <circle cx="220" cy="9" r="5" fill="#00852B" />
+    <circle cx="280" cy="9" r="5" fill="#FF6B00" />
+    <circle cx="340" cy="9" r="5" fill="#E3000B" />
+    <circle cx="400" cy="9" r="5" fill="#FFD700" />
+    <circle cx="460" cy="9" r="5" fill="#0055BF" />
+    <circle cx="520" cy="9" r="5" fill="#00852B" />
+    <circle cx="580" cy="9" r="5" fill="#FF6B00" />
+    <circle cx="640" cy="9" r="5" fill="#E3000B" />
+    <circle cx="700" cy="9" r="5" fill="#FFD700" />
+    <circle cx="750" cy="9" r="5" fill="#0055BF" />
+  </g>
+</svg>

@@ -1,0 +1,39 @@
+<svg width="850" height="95" viewBox="0 0 850 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card Background -->
+  <rect width="850" height="95" rx="12" fill="#1A1D22" stroke="#2D333D" stroke-width="2" />
+  
+  <!-- Left Accent 3D Brick Block -->
+  <path d="M0 12C0 5.37258 5.37258 0 12 0H110V95H12C5.37258 95 0 89.6274 0 83V12Z" fill="#0055BF" />
+  <rect x="110" y="0" width="8" height="95" fill="#003882" />
+  
+  <!-- Studs on left block -->
+  <circle cx="35" cy="28" r="11" fill="#0055BF" stroke="#FFFFFF" stroke-width="1.5" opacity="0.9" />
+  <circle cx="35" cy="27" r="7" fill="#0055BF" />
+  <circle cx="75" cy="28" r="11" fill="#0055BF" stroke="#FFFFFF" stroke-width="1.5" opacity="0.9" />
+  <circle cx="75" cy="27" r="7" fill="#0055BF" />
+
+  <circle cx="35" cy="66" r="11" fill="#0055BF" stroke="#FFFFFF" stroke-width="1.5" opacity="0.9" />
+  <circle cx="35" cy="65" r="7" fill="#0055BF" />
+  <circle cx="75" cy="66" r="11" fill="#0055BF" stroke="#FFFFFF" stroke-width="1.5" opacity="0.9" />
+  <circle cx="75" cy="65" r="7" fill="#0055BF" />
+
+  <!-- Set Number Tag -->
+  <rect x="135" y="16" width="95" height="20" rx="4" fill="#E3000B" />
+  <text x="182" y="30" font-family="monospace" font-weight="bold" font-size="11" fill="#FFFFFF" text-anchor="middle">SET #7302</text>
+
+  <!-- Category & Age Badge -->
+  <rect x="238" y="16" width="130" height="20" rx="4" fill="#22262E" stroke="#353B47" stroke-width="1" />
+  <text x="303" y="30" font-family="sans-serif" font-weight="bold" font-size="10" fill="#FFD700" text-anchor="middle">TECHNIC SYSTEMS</text>
+
+  <rect x="376" y="16" width="110" height="20" rx="4" fill="#22262E" stroke="#353B47" stroke-width="1" />
+  <text x="431" y="30" font-family="sans-serif" font-weight="bold" font-size="10" fill="#8B949E" text-anchor="middle">C++17 / EPOLL</text>
+
+  <!-- Set Title -->
+  <text x="135" y="64" font-family="'Arial Black', sans-serif" font-weight="900" font-size="21" fill="#FFFFFF" letter-spacing="0.5">BROK ── DISTRIBUTED EVENT STREAMING ENGINE</text>
+  
+  <!-- Right Button / Brick Snap Icon -->
+  <g transform="translate(740, 26)">
+    <rect width="85" height="42" rx="8" fill="#0055BF" />
+    <text x="42" y="26" font-family="'Arial Black', sans-serif" font-weight="900" font-size="12" fill="#FFFFFF" text-anchor="middle">BUILD ➔</text>
+  </g>
+</svg>
