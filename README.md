@@ -1,259 +1,262 @@
-<div align="center">
+<!-- Terminal Header Navigation -->
+<table width="100%">
+  <tr>
+    <td align="left">
+      <code><b>kryz73@github:~$</b> █</code>
+    </td>
+    <td align="right">
+      <code>[ <a href="#01-about-me">01 about</a> &nbsp; <a href="#04-featured-projects">02 projects</a> &nbsp; <a href="#03-tech-stack">03 tech</a> &nbsp; <a href="#02-quick-stats">04 stats</a> &nbsp; <a href="#06-lets-connect">05 contact</a> ]</code> &nbsp; 🔴 🟡 🟢
+    </td>
+  </tr>
+</table>
 
-```text
-  ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐
-  │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│ │(●)│
-┌─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┴───┴─┐
-│              P U L K I T   K A T A R I Y A   [ k r y z 7 3 ]                   │
-│             ───  L E G O   M A S T E R   B U I L D E R  ───                    │
-│                 Building Distributed Systems Brick by Brick                    │
-└─────────────────────────────────────────────────────────────────────────────────┘
-```
+<!-- Hero Section: Identity & Network Topology -->
+<table width="100%">
+  <tr>
+    <td width="54%" valign="top">
+      <code>// developer • learner • builder</code>
+      <h1>Pulkit <span style="color: #38bdf8;">Katariya</span></h1>
+      <code>@kryz73</code>
+      <br/><br/>
+      <p>
+        <b>▌ Building scalable systems at the intersection of software, data, and real-world impact.</b>
+      </p>
+      <p>
+        <code>&gt; Systems Programming</code><br/>
+        <code>&gt; Distributed Systems</code><br/>
+        <code>&gt; Machine Learning &amp; Data Science</code><br/>
+        <code>&gt; Open Source</code>
+      </p>
+      <br/>
+      <p>
+        <a href="https://www.iiitm.ac.in/"><img src="https://img.shields.io/badge/🏛️_IIITM_Gwalior-070b14?style=flat-square&logoColor=38bdf8&labelColor=070b14" alt="IIITM Gwalior" /></a>
+        <img src="https://img.shields.io/badge/🎓_B.Tech_(Math_&_Computing)_'28-070b14?style=flat-square&labelColor=070b14" alt="B.Tech" />
+        <br/>
+        <a href="https://www.credly.com/badges/3305020a-3cbf-4ea1-9985-18906923e131"><img src="https://img.shields.io/badge/📈_WorldQuant_Univ_(ADS)-070b14?style=flat-square&labelColor=070b14" alt="WorldQuant ADS" /></a>
+        <img src="https://img.shields.io/badge/👥_Founder_&_Exec_Lead_@_AXIS-070b14?style=flat-square&labelColor=070b14" alt="AXIS" />
+      </p>
+    </td>
+    <td width="46%" align="center" valign="middle">
+      <img src="assets/network-map.svg" width="100%" alt="Systems & Network Architecture Topology" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=18&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=750&height=70&lines=%F0%9F%A7%B1+BUILDING+DISTRIBUTED+SYSTEMS+BRICK+BY+BRICK;%F0%9F%9A%80+C%2B%2B17+%C2%B7+GO+%C2%B7+TYPESCRIPT+%C2%B7+FASTAPI+%C2%B7+DOCKER;%F0%9F%8E%B6+EVERYTHING+IS+AWESOME+WHEN+WE'RE+BUILDING+TOGETHER!" alt="Typing SVG" />
+<br/>
 
-<p align="center">
-  <a href="https://github.com/kryz73"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20ASSEMBLY-E3000B?style=for-the-badge&logo=lego&logoColor=white" alt="Status" /></a>
-  <a href="#-the-builder-instruction-booklet"><img src="https://img.shields.io/badge/RANK-MASTER%20BUILDER-FFD700?style=for-the-badge&logo=construct3&logoColor=black" alt="Rank" /></a>
-  <a href="https://github.com/kryz73"><img src="https://img.shields.io/badge/BASEPLATE-IIITM%20GWALIOR-0055BF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Baseplate" /></a>
-</p>
+<!-- 01. About Me & 02. Quick Stats -->
+<table width="100%">
+  <tr valign="top">
+    <!-- Column 1: About Me -->
+    <td width="50%">
+      <table width="100%">
+        <tr>
+          <th align="left" id="01-about-me">
+            <code>01. About Me</code>
+          </th>
+          <th align="right">
+            <code>~/about</code>
+          </th>
+        </tr>
+      </table>
+      <p>
+        I'm a B.Tech Mathematics &amp; Computing student at IIITM Gwalior, passionate about systems programming, distributed systems, and scalable backend infrastructure. I enjoy building reliable, high-performance systems and exploring the intersection of software, data, and real-world problems.
+      </p>
+    </td>
 
-</div>
+    <!-- Column 2: Quick Stats -->
+    <td width="50%">
+      <table width="100%">
+        <tr>
+          <th align="left" id="02-quick-stats">
+            <code>02. Quick Stats</code>
+          </th>
+          <th align="right">
+            <code>~/stats</code>
+          </th>
+        </tr>
+      </table>
+      <div align="center">
+        <a href="https://github.com/kryz73">
+          <img src="https://github-readme-stats.vercel.app/api?username=kryz73&show_icons=true&hide_border=false&border_color=16233b&bg_color=070b14&title_color=38bdf8&text_color=cbd5e1&icon_color=00ff9d" width="100%" alt="Pulkit's GitHub Stats" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-### 📖 `The Builder's Instruction Booklet`
-
-```
-  ┌─────────────────────────────────────────────────────────────────────────────┐
-  │  BUILDER BLUEPRINT : PULKIT KATARIYA [@kryz73]                              │
-  ├─────────────────────────────────────────────────────────────────────────────┤
-  │  • WORKSHOP BASE  : IIITM Gwalior — B.Tech Mathematics & Computing ('28)    │
-  │  • CORE SPECIALTY : Systems Programming · High Concurrency · Clean APIs     │
-  │  • CERTIFICATION  : WorldQuant University [Applied Data Science Lab]        │
-  │  • GUILD LEAD     : Founder & Executive Lead @ AXIS (AI & Systems Society)  │
-  │  • PHILOSOPHY     : "Every massive machine is just interlocking bricks."    │
-  └─────────────────────────────────────────────────────────────────────────────┘
-```
-
-> 🧱 **The Master Builder's Code:**  
-> Whether architecting a 9-domain modular ERP, engineering a 24/7 cloud ingestion daemon on AWS EC2 under strict API budgets, or tuning sub-millisecond Redis cache-aside microservices—great software isn't magic. It's built with high-precision components that snap together with zero friction.
-
----
-
-### 🧰 `The Master Brickbox (Parts & Tech Stack)`
+<!-- 03. Tech Stack -->
+<table width="100%">
+  <tr>
+    <th align="left" id="03-tech-stack">
+      <code>03. Tech Stack</code>
+    </th>
+    <th align="right">
+      <code>~/tech</code>
+    </th>
+  </tr>
+</table>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="32%" align="left">🧱 Brick Compartment</th>
-      <th width="68%" align="left">📦 Component Inventory</th>
+      <th width="25%" align="left"><code>&lt;/&gt; Languages</code></th>
+      <th width="27%" align="left"><code>🗄️ Backend &amp; Data</code></th>
+      <th width="23%" align="left"><code>🖥️ Frontend</code></th>
+      <th width="25%" align="left"><code>⚙️ Tools &amp; Infra</code></th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>🟥 Foundation Bricks</b><br/><sub>Core Languages & Runtimes</sub></td>
+    <tr valign="top">
       <td>
-        <img src="https://img.shields.io/badge/C++17-E3000B?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++17" />
-        <img src="https://img.shields.io/badge/Go-E3000B?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Python-E3000B?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/TypeScript-E3000B?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/C-E3000B?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/SQL-E3000B?style=flat-square&logo=sqlite&logoColor=white" alt="SQL" />
-        <img src="https://img.shields.io/badge/Bash-E3000B?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+        <img src="https://skillicons.dev/icons?i=cpp,go,py,ts,c,sqlite&theme=dark" alt="Languages: C++, Go, Python, TypeScript, C, SQL" /><br/>
+        <sub><code>C++ · Go · Python · TS · C · SQL</code></sub>
       </td>
-    </tr>
-    <tr>
-      <td><b>🟦 Structural Bricks</b><br/><sub>Backend & Distributed Systems</sub></td>
       <td>
-        <img src="https://img.shields.io/badge/FastAPI-0055BF?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-        <img src="https://img.shields.io/badge/Strawberry%20GraphQL-0055BF?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-        <img src="https://img.shields.io/badge/Chi%20Router-0055BF?style=flat-square&logo=go&logoColor=white" alt="Chi" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0055BF?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Redis-0055BF?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/Apache%20Parquet-0055BF?style=flat-square&logo=apache&logoColor=white" alt="Apache Parquet" />
-        <img src="https://img.shields.io/badge/SQLModel-0055BF?style=flat-square&logo=databricks&logoColor=white" alt="SQLModel" />
-        <img src="https://img.shields.io/badge/Zero--Trust%20RBAC-0055BF?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="RBAC" />
+        <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,graphql&theme=dark" alt="Backend: FastAPI, PostgreSQL, Redis, GraphQL" /><br/>
+        <sub><code>FastAPI · Postgres · Redis · GraphQL</code></sub>
       </td>
-    </tr>
-    <tr>
-      <td><b>🟨 Facade Elements</b><br/><sub>Frontend & UI Architecture</sub></td>
       <td>
-        <img src="https://img.shields.io/badge/Next.js%2014-FFD700?style=flat-square&logo=nextdotjs&logoColor=black" alt="Next.js 14" />
-        <img src="https://img.shields.io/badge/React-FFD700?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Tailwind%20CSS-FFD700?style=flat-square&logo=tailwindcss&logoColor=black" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/HTML5-FFD700?style=flat-square&logo=html5&logoColor=black" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-FFD700?style=flat-square&logo=css3&logoColor=black" alt="CSS3" />
+        <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend: Next.js, React, Tailwind CSS" /><br/>
+        <sub><code>Next.js · React · Tailwind CSS</code></sub>
       </td>
-    </tr>
-    <tr>
-      <td><b>🟩 Technic Gears</b><br/><sub>DevOps, Cloud & Tooling</sub></td>
       <td>
-        <img src="https://img.shields.io/badge/AWS%20EC2-00852B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS EC2" />
-        <img src="https://img.shields.io/badge/GCP-00852B?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
-        <img src="https://img.shields.io/badge/Docker-00852B?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-        <img src="https://img.shields.io/badge/Kubernetes-00852B?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-        <img src="https://img.shields.io/badge/Nginx-00852B?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-        <img src="https://img.shields.io/badge/Linux%20epoll-00852B?style=flat-square&logo=linux&logoColor=white" alt="epoll" />
-        <img src="https://img.shields.io/badge/GitHub%20Actions-00852B?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-        <img src="https://img.shields.io/badge/CMake-00852B?style=flat-square&logo=cmake&logoColor=white" alt="CMake" />
-      </td>
-    </tr>
-    <tr>
-      <td><b>🟧 Specialty Blocks</b><br/><sub>AI, Mathematics & Data</sub></td>
-      <td>
-        <img src="https://img.shields.io/badge/Scikit--Learn-FF6B00?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-        <img src="https://img.shields.io/badge/NumPy-FF6B00?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-        <img src="https://img.shields.io/badge/Pandas-FF6B00?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/ETL%20Pipelines-FF6B00?style=flat-square&logo=apacheairflow&logoColor=white" alt="ETL Pipelines" />
-        <img src="https://img.shields.io/badge/Supervised%20ML-FF6B00?style=flat-square&logo=tensorflow&logoColor=white" alt="Supervised ML" />
+        <img src="https://skillicons.dev/icons?i=docker,linux,git,kubernetes&theme=dark" alt="Tools: Docker, Linux, Git, Kubernetes" /><br/>
+        <sub><code>Docker · Linux · Git · K8s · AWS</code></sub>
       </td>
     </tr>
   </tbody>
 </table>
 
----
+<br/>
 
-### 🏗️ `Masterpiece Sets (Featured Projects)`
-
-<!-- SET 1: ACAD-ERP -->
+<!-- 04. Featured Projects -->
 <table width="100%">
   <tr>
-    <td width="70%" valign="top">
-      <h3>🧱 SET #7301 : <a href="https://github.com/kryz73/acad-erp">ACAD-ERP ── Full-Stack Academic Enterprise Platform</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/SERIES-ARCHITECTURE-FFD700?style=flat-square" alt="Series" />
-        <img src="https://img.shields.io/badge/PIECES-9_DOMAINS-E3000B?style=flat-square" alt="Pieces" />
-        <img src="https://img.shields.io/badge/STACK-NEXT.JS_14_%7C_FASTAPI_%7C_GRAPHQL-0055BF?style=flat-square" alt="Stack" />
-      </p>
-      <ul>
-        <li><b>Modular Architecture:</b> Integrates 9 distinct enterprise domain modules with strict Domain-Driven Design (DDD).</li>
-        <li><b>Strawberry GraphQL Layer:</b> Unified strongly-typed query & mutation layer with per-module Pydantic settings.</li>
-        <li><b>Zero-Trust Security:</b> RBAC engine using JWT HTTPBearer, live role hydration, and Argon2 password hashing.</li>
-        <li><b>Tri-Role Portals:</b> Role-gated frontend built in Next.js 14 & Tailwind CSS for Admin, Faculty, and Student workflows.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/kryz73/acad-erp">
-        <img src="https://img.shields.io/badge/BUILD%20SET-ACAD--ERP-E3000B?style=for-the-badge&logo=lego&logoColor=white" alt="Build ACAD-ERP" />
-      </a>
+    <th align="left" id="04-featured-projects">
+      <code>04. Featured Projects</code>
+    </th>
+    <th align="right">
+      <code>~/projects</code>
+    </th>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr valign="top">
+    <!-- Project 1: ACAD-ERP -->
+    <td width="33%">
+      <table width="100%">
+        <tr>
+          <td align="left"><b>📁 ACAD-ERP</b></td>
+          <td align="right"><code>01</code></td>
+        </tr>
+      </table>
+      <sub><b>Modular Academic ERP Platform</b></sub>
       <br/><br/>
-      <sub><b>Click to inspect blueprint ➔</b></sub>
+      <p>A 9-domain modular ERP with role-based access, built using FastAPI, Strawberry GraphQL, and Next.js 14 with a focus on domain-driven architecture.</p>
+      <p>
+        <code>FastAPI</code> &nbsp; <code>Next.js</code> &nbsp; <code>GraphQL</code> &nbsp; <code>PostgreSQL</code>
+      </p>
+      <br/>
+      <a href="https://github.com/kryz73/acad-erp"><b>View Repository ➔</b></a>
+    </td>
+
+    <!-- Project 2: Harvest -->
+    <td width="34%">
+      <table width="100%">
+        <tr>
+          <td align="left"><b>📁 Harvest</b></td>
+          <td align="right"><code>02</code></td>
+        </tr>
+      </table>
+      <sub><b>24/7 YouTube Ingestion Engine &amp; Parquet Lake</b></sub>
+      <br/><br/>
+      <p>A 24/7 Go ingestion daemon deployed on AWS EC2 tracking video trajectories across 3,500+ creators under a strict 10k quota budget with zero-quota RSS discovery.</p>
+      <p>
+        <code>Go</code> &nbsp; <code>AWS EC2</code> &nbsp; <code>Parquet</code> &nbsp; <code>SQLite</code>
+      </p>
+      <br/>
+      <a href="https://github.com/kryz73/harvest"><b>View Repository ➔</b></a>
+    </td>
+
+    <!-- Project 3: URL Shortener -->
+    <td width="33%">
+      <table width="100%">
+        <tr>
+          <td align="left"><b>📁 URL Shortener</b></td>
+          <td align="right"><code>03</code></td>
+        </tr>
+      </table>
+      <sub><b>High-Performance Caching Microservice</b></sub>
+      <br/><br/>
+      <p>A scalable URL shortener with Redis cache-aside strategy, Base62 encoding, and PostgreSQL pgxpool delivering sub-millisecond p95 redirection.</p>
+      <p>
+        <code>Go</code> &nbsp; <code>Redis</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>Docker</code>
+      </p>
+      <br/>
+      <a href="https://github.com/kryz73/url-shortner"><b>View Repository ➔</b></a>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- SET 2: HARVEST -->
+<!-- 05. GitHub Activity & 06. Let's Connect -->
 <table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>🧱 SET #7302 : <a href="https://github.com/kryz73/harvest">Harvest ── 24/7 YouTube Ingestion Engine & Parquet Lake</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/SERIES-CLOUD_PIPELINE-0055BF?style=flat-square" alt="Series" />
-        <img src="https://img.shields.io/badge/PIECES-GO_%7C_PARQUET_%7C_SQLITE-FFD700?style=flat-square" alt="Pieces" />
-        <img src="https://img.shields.io/badge/DEPLOY-AWS_EC2_SYSTEMD-00852B?style=flat-square" alt="Deploy" />
-      </p>
-      <ul>
-        <li><b>Quota-Optimized Daemon:</b> Continuously tracks video trajectories across 3,500+ creators and 4 global regions under a strict 10,000 units/day budget.</li>
-        <li><b>Zero-Quota Discovery:</b> Polls creator RSS/Atom feeds via an async HTTP worker pool, consuming 0 API quota units for real-time video discovery.</li>
-        <li><b>13-Checkpoint State Machine:</b> Non-uniform sampling schedule (0.5h--60h) with dual-stage comment harvesting (1h sentiment vs 6h maturation).</li>
-        <li><b>Columnar Lake & Governor:</b> Thread-safe Quota Governor with priority tiers, auto-exporting sealed trajectories into Snappy-compressed Apache Parquet.</li>
-      </ul>
+  <tr valign="top">
+    <!-- Left Column: GitHub Activity -->
+    <td width="50%">
+      <table width="100%">
+        <tr>
+          <th align="left">
+            <code>05. GitHub Activity</code>
+          </th>
+          <th align="right">
+            <code>~/activity</code>
+          </th>
+        </tr>
+      </table>
+      <div align="center">
+        <br/>
+        <a href="https://github.com/kryz73">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=kryz73&background=070b14&border=16233b&ring=00ff9d&fire=38bdf8&currStreakLabel=00ff9d&sideNums=cbd5e1&sideLabels=94a3b8" width="100%" alt="GitHub Streak & Activity" />
+        </a>
+      </div>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/kryz73/harvest">
-        <img src="https://img.shields.io/badge/BUILD%20SET-HARVEST-0055BF?style=for-the-badge&logo=lego&logoColor=white" alt="Build Harvest" />
-      </a>
-      <br/><br/>
-      <sub><b>Click to inspect blueprint ➔</b></sub>
-    </td>
-  </tr>
-</table>
 
-<br/>
-
-<!-- SET 3: URL SHORTENER -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
-      <h3>🧱 SET #7303 : <a href="https://github.com/kryz73/url-shortner">Distributed URL Shortener & High-Speed Cache Engine</a></h3>
-      <p>
-        <img src="https://img.shields.io/badge/SERIES-SPEED_CHAMPIONS-FF6B00?style=flat-square" alt="Series" />
-        <img src="https://img.shields.io/badge/PIECES-GO_/_REDIS-00852B?style=flat-square" alt="Pieces" />
-        <img src="https://img.shields.io/badge/LATENCY-SUB--MILLI_P95-E3000B?style=flat-square" alt="Latency" />
-      </p>
-      <ul>
-        <li><b>Cache-Aside Strategy:</b> Redis caching layer delivering sub-millisecond p95 redirection under high concurrency.</li>
-        <li><b>Collision-Free Encoding:</b> Base62 algorithm translating 64-bit auto-increment DB IDs into compact alphanumeric keys.</li>
-        <li><b>Connection Pooling:</b> PostgreSQL persistence via <code>pgxpool</code> with tuned B-Tree index lookup queries.</li>
-        <li><b>Production Packaging:</b> Multi-stage Docker containerization behind an Nginx reverse proxy with automated CI/CD.</li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/kryz73/url-shortner">
-        <img src="https://img.shields.io/badge/BUILD%20SET-URL%20SHORTENER-FF6B00?style=for-the-badge&logo=lego&logoColor=white" alt="Build Shortener" />
-      </a>
-      <br/><br/>
-      <sub><b>Click to inspect blueprint ➔</b></sub>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏛️ `The Builders' Guild (Community & Leadership)`
-
-<table width="100%">
-  <tr>
-    <td width="80" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brick.png" width="60" alt="Lego Brick" />
-    </td>
-    <td>
-      <h3>🧱 AI Exploration and Innovation Society (AXIS)</h3>
-      <strong>Founder & Executive Lead</strong> • <em>IIITM Gwalior</em><br/>
-      Founded our departmental student society dedicated to demystifying artificial intelligence, systems programming, and high-scale software engineering. Leading technical discussions, open-source collaborative projects, and peer learning sessions.
+    <!-- Right Column: Let's Connect -->
+    <td width="50%">
+      <table width="100%">
+        <tr>
+          <th align="left" id="06-lets-connect">
+            <code>06. Let's Connect</code>
+          </th>
+          <th align="right">
+            <code>~/contact</code>
+          </th>
+        </tr>
+      </table>
+      <br/>
+      <table width="100%">
+        <tr>
+          <td width="28px" align="center">🐙</td>
+          <td><b>GitHub</b></td>
+          <td align="right"><a href="https://github.com/kryz73"><code>github.com/kryz73 ➔</code></a></td>
+        </tr>
+        <tr>
+          <td width="28px" align="center">💼</td>
+          <td><b>LinkedIn</b></td>
+          <td align="right"><a href="https://www.linkedin.com/in/pulkit-katariya-888a86323/"><code>in/pulkit-katariya ➔</code></a></td>
+        </tr>
+        <tr>
+          <td width="28px" align="center">✉️</td>
+          <td><b>Email</b></td>
+          <td align="right"><a href="mailto:pulkit.kr1924@gmail.com"><code>pulkit.kr1924@gmail.com ➔</code></a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
-
----
-
-### 📊 `Brick Counting & Telemetry`
-
-<div align="center">
-
-<table border="0">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/kryz73">
-        <img height="195" src="https://github-readme-stats.vercel.app/api?username=kryz73&show_icons=true&hide_border=false&border_color=E3000B&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&icon_color=E3000B" alt="GitHub Stats" />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/kryz73">
-        <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=kryz73&hide_border=false&border_color=E3000B&background=0D1117&ring=FFD700&fire=E3000B&currStreakLabel=FFD700&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-### 📬 `Snap In & Assemble a Collab!`
-
-<div align="center">
-
-> *"Everything is awesome when we're building together!"* 🎶  
-> Have an ambitious systems project, distributed architecture challenge, or open-source build in mind? Let's connect!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pulkit-katariya-888a86323/"><img src="https://img.shields.io/badge/LINKEDIN-0055BF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pulkit.kr1924@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-E3000B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/kryz73"><img src="https://img.shields.io/badge/GITHUB_PROFILE-FFD700?style=for-the-badge&logo=github&logoColor=black" alt="GitHub" /></a>
-</p>
-
-</div>
