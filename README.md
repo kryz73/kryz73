@@ -37,7 +37,7 @@
 ```
 
 > 🧱 **The Master Builder's Code:**  
-> Whether architecting a 9-domain modular ERP, wiring a high-throughput C++17 message broker with Linux `epoll`, or tuning sub-millisecond Redis cache-aside microservices—great software isn't magic. It's built with high-precision components that snap together with zero friction.
+> Whether architecting a 9-domain modular ERP, engineering a 24/7 cloud ingestion daemon on AWS EC2 under strict API budgets, or tuning sub-millisecond Redis cache-aside microservices—great software isn't magic. It's built with high-precision components that snap together with zero friction.
 
 ---
 
@@ -71,6 +71,7 @@
         <img src="https://img.shields.io/badge/Chi%20Router-0055BF?style=flat-square&logo=go&logoColor=white" alt="Chi" />
         <img src="https://img.shields.io/badge/PostgreSQL-0055BF?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
         <img src="https://img.shields.io/badge/Redis-0055BF?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <img src="https://img.shields.io/badge/Apache%20Parquet-0055BF?style=flat-square&logo=apache&logoColor=white" alt="Apache Parquet" />
         <img src="https://img.shields.io/badge/SQLModel-0055BF?style=flat-square&logo=databricks&logoColor=white" alt="SQLModel" />
         <img src="https://img.shields.io/badge/Zero--Trust%20RBAC-0055BF?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="RBAC" />
       </td>
@@ -88,6 +89,8 @@
     <tr>
       <td><b>🟩 Technic Gears</b><br/><sub>DevOps, Cloud & Tooling</sub></td>
       <td>
+        <img src="https://img.shields.io/badge/AWS%20EC2-00852B?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS EC2" />
+        <img src="https://img.shields.io/badge/GCP-00852B?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
         <img src="https://img.shields.io/badge/Docker-00852B?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
         <img src="https://img.shields.io/badge/Kubernetes-00852B?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
         <img src="https://img.shields.io/badge/Nginx-00852B?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
@@ -142,26 +145,26 @@
 
 <br/>
 
-<!-- SET 2: BROK -->
+<!-- SET 2: HARVEST -->
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h3>🧱 SET #7302 : <a href="https://github.com/kryz73/brok">BROK ── Distributed Event Streaming Broker</a></h3>
+      <h3>🧱 SET #7302 : <a href="https://github.com/kryz73/harvest">Harvest ── 24/7 YouTube Ingestion Engine & Parquet Lake</a></h3>
       <p>
-        <img src="https://img.shields.io/badge/SERIES-TECHNIC_SYSTEMS-0055BF?style=flat-square" alt="Series" />
-        <img src="https://img.shields.io/badge/PIECES-C%2B%2B17_/_EPOLL-FFD700?style=flat-square" alt="Pieces" />
-        <img src="https://img.shields.io/badge/MEMORY-~4MB_FOOTPRINT-00852B?style=flat-square" alt="Memory" />
+        <img src="https://img.shields.io/badge/SERIES-CLOUD_PIPELINE-0055BF?style=flat-square" alt="Series" />
+        <img src="https://img.shields.io/badge/PIECES-GO_%7C_PARQUET_%7C_SQLITE-FFD700?style=flat-square" alt="Pieces" />
+        <img src="https://img.shields.io/badge/DEPLOY-AWS_EC2_SYSTEMD-00852B?style=flat-square" alt="Deploy" />
       </p>
       <ul>
-        <li><b>Append-Only Commit Logs:</b> Custom partitioned storage engine and index files delivering O(1) offset lookups.</li>
-        <li><b>Non-Blocking Reactor:</b> High-throughput event loop on Linux <code>epoll</code> eliminating binary serialization overhead.</li>
-        <li><b>Cluster Replication:</b> Leader-follower partition replication with In-Sync Replicas (ISR) and heartbeat detection.</li>
-        <li><b>Tunable Durability:</b> Supports strict acknowledgment semantics (<code>acks=1</code>, <code>acks=all</code>) under load.</li>
+        <li><b>Quota-Optimized Daemon:</b> Continuously tracks video trajectories across 3,500+ creators and 4 global regions under a strict 10,000 units/day budget.</li>
+        <li><b>Zero-Quota Discovery:</b> Polls creator RSS/Atom feeds via an async HTTP worker pool, consuming 0 API quota units for real-time video discovery.</li>
+        <li><b>13-Checkpoint State Machine:</b> Non-uniform sampling schedule (0.5h--60h) with dual-stage comment harvesting (1h sentiment vs 6h maturation).</li>
+        <li><b>Columnar Lake & Governor:</b> Thread-safe Quota Governor with priority tiers, auto-exporting sealed trajectories into Snappy-compressed Apache Parquet.</li>
       </ul>
     </td>
     <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/kryz73/brok">
-        <img src="https://img.shields.io/badge/BUILD%20SET-BROK-0055BF?style=for-the-badge&logo=lego&logoColor=white" alt="Build Brok" />
+      <a href="https://github.com/kryz73/harvest">
+        <img src="https://img.shields.io/badge/BUILD%20SET-HARVEST-0055BF?style=for-the-badge&logo=lego&logoColor=white" alt="Build Harvest" />
       </a>
       <br/><br/>
       <sub><b>Click to inspect blueprint ➔</b></sub>
